@@ -1,4 +1,3 @@
-
 # Student Grade Prediction Project
 
 This project aims to predict the final grades (G2 and G3) of students based on various factors such as age, study time, family support, and more.It utilizes machine learning techniques to make predictions and offers insights into the factors affecting students' grades. The goal is to develop a predictive model that can assist in understanding the factors that influence student performance.
